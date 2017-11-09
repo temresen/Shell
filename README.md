@@ -1,1 +1,1 @@
-# osShell
+# Shell project Operating System class.
